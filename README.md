@@ -4,7 +4,7 @@ I’m Muhammad Shamoon Hashmi – a UI/UX designer, junior web developer, and an
 
 🚀 What Drives Me?
 🔍 Exploring
-I dive deep into UI/UX design, web development, and cybersecurity to create solutions that are visually stunning, seamlessly functional, and secure.
+I dive deep into UI/UX design, web development, and cybersecurity to create visually stunning, seamlessly functional, and secure solutions.
 
 📖 Learning
 I’m growing my skills in:
@@ -27,7 +27,7 @@ Problem-solving mindset: I create solutions that look great and work even better
 📫 Let’s Connect
 Ready to work together? Reach me here:
 📧 Email: muhammadshamoonhashmi@gmail.com
-💼 LinkedIn: linkedin.com/in/muhammad-shamoon-hashmi
+💼 LinkedIn: www.linkedin.com/in/muhammad-shamoon-hashmi
 
 ⚡ Fun Fact
 I’m a designer who codes and a coder who secures. When I’m not working, I’m learning new ways to make the web safer, better, and more creative.
